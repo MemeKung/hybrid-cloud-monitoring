@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Local credentials / env files — never commit real secrets
+.env
+*.pem
+credentials
+*.jtl
+
+# OS
+.DS_Store
+Thumbs.db
